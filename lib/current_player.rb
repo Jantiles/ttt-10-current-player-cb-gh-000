@@ -7,3 +7,5 @@ def turn_count(board)
   end
   return track
 end
+
+def current_player 
