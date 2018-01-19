@@ -5,5 +5,4 @@ def turn_count(board)
       track += 1
     end
   end
-  return track
 end
