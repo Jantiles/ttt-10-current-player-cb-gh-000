@@ -3,5 +3,7 @@ def turn_count(board)
   board.each do |turn|
     if turn == "X" || turn == "O"
       track += 1
+    end
+  end
   return track
 end
